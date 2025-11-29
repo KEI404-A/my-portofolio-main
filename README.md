@@ -184,8 +184,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Fadhil Annaufal Musyafa**
 
-- 🌐 Website: [Portfolio](my-portofolio-mu-six.vercel.app)
-- 💼 LinkedIn: [Your LinkedIn](www.linkedin.com/in/fadhil-annaufal-musyafa-0223a2372)
+- 🌐 Website: [Portfolio](https://my-portofolio-mu-six.vercel.app)
+- 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/fadhil-annaufal-musyafa-0223a2372)
 - 📧 Email: solohunter696@gmail.com
 - 🐙 GitHub: [@KEI404-A](https://github.com/KEI404-A)
 - 📍 Location: Indonesia
