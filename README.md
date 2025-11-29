@@ -162,7 +162,9 @@ Edit `config.js` to customize:
 
 ## 📸 Screenshots
 
-> Add your screenshots here to showcase the portfolio
+![Portfolio Screenshot](images/Screenshot%202025-11-30%20003655.png)
+
+> Screenshot showcasing the portfolio website interface
 
 ## 🤝 Contributing
 
@@ -182,8 +184,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Fadhil Annaufal Musyafa**
 
-- 🌐 Website: [Portfolio](#)
-- 💼 LinkedIn: [Your LinkedIn](#)
+- 🌐 Website: [Portfolio](my-portofolio-mu-six.vercel.app)
+- 💼 LinkedIn: [Your LinkedIn](www.linkedin.com/in/fadhil-annaufal-musyafa-0223a2372)
 - 📧 Email: solohunter696@gmail.com
 - 🐙 GitHub: [@KEI404-A](https://github.com/KEI404-A)
 - 📍 Location: Indonesia
